@@ -19,10 +19,11 @@ entries <- c(
 "Collaborative research; human participants and animal subjects. \\em{[pp.\ 24-28, 39-42, 48-49]}",
 "Misconduct: Plagiarism, falsification, fabrication. \\em{[pp.\ 15-23]}",
 "Statistical computing workflows using Linux/Unix, git, R/Python, Latex.",
-"Topics in statistical computing.",
+"Topics in statistical computing (to be decided).",
+"Topics in statistical computing (to be decided).",
 "High performance and parallel computing; using the Great Lakes cluster.",
 "THANKSGIVING HOLIDAY",
-"Reproducibility in the context of research in statistics."
+"Reproducibility in the context of statistical computing."
 )
 
 date.offsets <- (0:(length(entries)-1) )*7
@@ -65,7 +66,8 @@ print(xt,include.rownames=F,
 
 {\bf Reading assignments} {\em [in brackets, above]} correspond to pages of ``On Being a Scientist: A Guide to Responsible Conduct in Research: Third Edition,'' a publication of the National Academies of Science and Engineering and the National Institute of Medicine. The course website has a link to a free pdf copy.
 
-{\bf COVID accommodations}. The purpose of this class is to participate in discussions related to research in statisics. That will be more challenging that usual in the current circumstances. Students in class should follow UM COVID regulations, such as wearing a face covering and complying with social distancing rules. Students attending remotely should join the class synchronously, turn their video on at all times, and mute/un-mute their audio as appropriate. 
+{\bf COVID accommodations}. The purpose of this class is to participate in discussions related to research in statisics. That will be more challenging that usual in the current circumstances. Students in class should follow UM COVID regulations, such as wearing a face covering and complying with social distancing rules. Students attending remotely should join the class synchronously, turn their video on at all times, and mute/un-mute their audio as appropriate.
 
+Video recordings may be made occasionally. These will not be posted publicly by the instructor. Students are also expected not to post publicly any video records of class discussions.
 
 \end{document}
