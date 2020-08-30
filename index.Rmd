@@ -1,11 +1,10 @@
-
-<h2>STATS 810 (Fall 2020) Literature Proseminar, Including Discussions on Responsible Conduct in Research and Scholarship </h2>
+---
+title: "STATS 810 (Fall 2020) Literature Proseminar, Including Discussions on Responsible Conduct in Research and Scholarship"
+---
 
 <h3> Instructor: Edward L. Ionides </h3>
 
 -------------
-
-
 
 [Syllabus](syllabus.pdf) 
 
@@ -17,8 +16,10 @@ A [free pdf copy](http://www.nap.edu/catalog.php?record_id=12192) is available o
 
 ## Homework assignments and class notes 
 
+* [Homework 1. What is responsible conduct in research and scholarship (RCRS)? Why are we discussing it?](hw01.pdf).
+
 <!--
-* [Homework 1. What is responsible conduct in research and scholarship (RCRS)? Why are we discussing it?](hw01.pdf). [Class 1 notes](class01.pdf).
+[Class 1 notes](class01.pdf).
 
 * [Homework 2. Building and maintaining healthy mentor/mentee relationships](hw02.pdf). [Class 2 notes](class02.pdf).
     
