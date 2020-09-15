@@ -22,11 +22,9 @@ A [free pdf copy](http://www.nap.edu/catalog.php?record_id=12192) is available o
 
 * [Homework 2. Building and maintaining healthy mentor/mentee relationships](hw02.pdf).
 
-<!--
+* [Homework 3. Publication and peer review](hw03.pdf).
 
-[Class 2 notes](class02.pdf).
-    
-* [Homework 3. Publication and peer review](hw03.pdf). [Class 3 notes](class03.pdf).
+<!--
 
 * [Homework 4. Academic misconduct](hw04.pdf). [Class 4 notes](class04.pdf).
 
