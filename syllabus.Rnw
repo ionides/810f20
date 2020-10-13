@@ -21,7 +21,7 @@ entries <- c(
 "Statistical computing: git.",
 "Statistical computing: Linux.",
 "Statistical computing: parallel statistical computing.",
-"High performance computing: using the Great Lakes cluster.",
+"Statistical computing: parallel R on the Great Lakes cluster.",
 "THANKSGIVING HOLIDAY",
 "Reproducibility in the context of statistical computing."
 )
