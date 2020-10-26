@@ -21,7 +21,7 @@ output:
 
     iii.  Use the self-teaching materials at [GitHub Learning Lab](https://lab.github.com/) or [Atlassian](https://www.atlassian.com/git/tutorials) to spend an hour or so advancing your knowledge of git. The Atlassian tutorials are better for learning command-line git, but they teach in the context of Bitbucket which is currently less popular than GitHub although both are based around the same git program. The [Introduction to GitHub module](https://lab.github.com/githubtraining/introduction-to-github) may be a good starting point for beginners. Alternatively, browse Karl Broman's practical and minimal [git/github tutorial](http://kbroman.org/github_tutorial/) which this assignment draws on.
 
-    iv. Report briefly on your past experience with git, and what you learned while studying for this homework. Edit the `hw09.Rmd` file in the `810f20` git repository, compile this to html (for example, using Rstudio) and submit your report via Canvas. 
+    iv. Report briefly on your past experience with git, and what you learned while studying for this homework. Edit the `hw09.Rmd` file in the `810f20` git repository, compile this to html (for example, using Rstudio) and submit your report via Canvas as an html file.
 
 YOUR ANSWER HERE. YOU CAN DELETE THE REMAINDER OF THIS FILE IF YOU WANT TO.
 
@@ -89,7 +89,7 @@ Branches may represent new functionality, or a bug fix, or different versions of
 git clone https://github.com/ionides/810f20.git
 ```
 
-* You now have a local copy of the Stats 810 class materials.
+* You now have a local copy of the STATS 810 class materials.
 
 * The local repository remembers the address of the remote repository it was cloned from.
 
