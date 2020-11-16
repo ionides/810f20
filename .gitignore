@@ -12,6 +12,7 @@
 *.Renviron
 *.Rout
 *.toc
+*.vrb
 /cache/*.*
 /cache/figs/*.*
 /cache/inforeach/*
