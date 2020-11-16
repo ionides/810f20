@@ -215,7 +215,14 @@ sbatch test.sbat
 \item
 From inspecting the code in \texttt{test.R}, we see that the results are saved in \texttt{test.csv}
 \item
-Compare the run times with the results from your laptop in homework 11.
+Compare the run times with the results from running this code on your laptop, as done in homework 11.
+\item
+Are you puzzled by this comparison? I was initially surprised. To shed some light on what is going on, try running the code in \texttt{test2.R} by
+<<,echo=T,eval=F>>=
+sbatch test2.sbat
+@
+What do you learn from comparing the output in \texttt{test2.csv} with \texttt{test.csv}?
+
 \end{itemize}
 
 \end{frame}
@@ -236,8 +243,7 @@ srun --nodes=1 --account=stats_dept1 --ntasks-per-node=8 \
 R
 @
 \item This R session will have access to the cores you have requested.
-\item Here, we do not use \texttt{nodes} which requires \texttt{Rmpi} since \texttt{library(doParallel)}
-alone cannot work with cores across different machines.
+\item Here, we require \texttt{nodes=1} unless we use \texttt{Rmpi} since \texttt{library(doParallel)} alone cannot work with cores across different machines.
 \item You can also run \link{https://arc-ts.umich.edu/greatlakes/user-guide/\#document-3}{web-based Rstudio}
 However, batch jobs remain the basic tool for intensive statistical computing.
 \end{itemize}
