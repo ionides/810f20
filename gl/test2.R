@@ -6,7 +6,7 @@ if(is.na(cores)) cores <- detectCores()
 registerDoParallel(cores)
 
 system.time(
- rnorm(10^8); return(0)
+ rnorm(10^8)
 ) -> time0
 
 system.time(
